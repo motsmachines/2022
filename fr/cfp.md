@@ -6,4 +6,4 @@
 
 <br>
 
-## Appel à communication : Plus d'information à venir
+## Appel à communication : Plus d'informations à venir
