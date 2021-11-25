@@ -6,7 +6,7 @@
 
 <br> 
 
-## Title to come
+## More information to come
 
 ## Venue
 The workshop will be held at the University of Western Brittany, Faculty of Arts:
