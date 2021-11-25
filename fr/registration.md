@@ -6,4 +6,4 @@
 
 <br>
 
-## S'inscrire : Plus d'informatiions à venir
+## S'inscrire : Plus d'informations à venir
