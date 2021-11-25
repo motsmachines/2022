@@ -6,4 +6,4 @@
 
 <br>
 
-## Registration: More to come
+## Registration: More information to come
