@@ -7,10 +7,6 @@
 
 ## Simplification et adaptation du texte
 
-**Thèmes** : pré-édition, langage contrôlé, Simplified Technical English, internationalisation et localisation, rédaction technique, visualisation
-
-**Le 25/03/2022**
-
 ## Lieu et accès
 
 BREST Faculté Victor Segalen
