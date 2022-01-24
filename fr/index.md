@@ -5,9 +5,12 @@
 
 <br>
 
-## Plus d'informations à venir
+## Mots/Machines #4: Simplification et adaptation du texte: pré-édition, langage contrôlé, Simplified Technical English, internationalisation et localisation, rédaction technique, visualisation
+
+Le 25/03/2022
 
 ## Lieu et accès
+
 BREST Faculté Victor Segalen
 
 20, rue Duquesne - CS9383729238
