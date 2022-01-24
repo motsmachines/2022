@@ -14,7 +14,7 @@ Site de soumission : (à venir)
 
 **Soumission des résumés et des articles : 13 février 2022**
 
-**Journée d’étude : 25 mars 2021**
+**Journée d’étude : 25 mars 2022**
 
 La simplification des textes est utilisée dans le domaine de la traduction,  localisation et rédaction technique. La pré-édition est le processus par lequel un humain prépare un document avant d'appliquer la traduction automatique afin d'obtenir de meilleurs résultats et de réduire la charge de travail de post-édition, ce qui est devenu un choix courant pour les entreprises publiant leur contenu dans différentes langues.
 
