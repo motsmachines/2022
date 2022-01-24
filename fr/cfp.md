@@ -16,4 +16,11 @@ Site de soumission : (à venir)
 
 **Journée d’étude : 25 mars 2021**
 
-**Thèmes** : pré-édition, langage contrôlé, Simplified Technical English, internationalisation et localisation, rédaction technique, visualisation
+### Thématiques
+
+* Pré-édition
+* Langage contrôlé
+* Simplified Technical English
+* Internationalisation et localisation
+* Rédaction technique
+* Visualisation
