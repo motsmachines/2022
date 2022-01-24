@@ -23,10 +23,8 @@ En outre, la simplification du texte permet d'améliorer les applications de tra
 Les textes simplifiés sont également plus accessibles aux locuteurs non natifs, aux jeunes lecteurs, aux personnes souffrant d'un handicap de lecture ou ayant un niveau d'éducation inférieur (objectif de développement durable INÉGALITÉ RÉDUITE). 
 Les textes scientifiques, tels que les publications de recherche, peuvent être difficiles à comprendre pour les non-experts du domaine ou les scientifiques qui ne sont pas concernés par la publication. L'amélioration de la compréhensibilité des textes et leur adaptation à différents publics restent un problème non résolu. La simplification de textes est un pas en avant pour rendre la recherche réellement ouverte, accessible et compréhensible pour tout le monde, pour développer un contre-discours aux fake news basées sur des résultats scientifiques, pour permettre aux gens de lire plus rapidement et par conséquent, de devenir plus conscients des résultats scientifiques, surtout avec une explosion de la science ouverte pendant la pandémie actuelle de COVID-19 (objectif de développement durable ÉDUCATION DE QUALITÉ).
 
-Les thématiques des années précédentes étaient :
-
-2019 : la place et le rôle de l’humain dans la création, transmission, transcréation et transformation des textes (https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines)
-2020 : Traduction et sentiment : quel sens pour la machine ? (https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4)
+* 2019 : la place et le rôle de l’humain dans la création, transmission, transcréation et transformation des textes ([https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines](https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines))
+* 2020 : Traduction et sentiment : quel sens pour la machine ? ([https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4](https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4))
 2021 : Les machines ont-elles le sens de l’humour ?
 
 ### Thématiques
