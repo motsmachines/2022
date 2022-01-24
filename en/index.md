@@ -10,7 +10,7 @@
 
 **Workshop : 25 mars 2022**
 
-**Thématiques** : pré-édition, langage contrôlé, Simplified Technical English, internationalisation et localisation, rédaction technique, visualisation
+**Thématiques** : pre-editing, controlled language, Simplified Technical English, internationalization and localization, technical writing, visualization
 
 ## Venue
 The workshop will be held at the University of Western Brittany, Faculty of Arts:
