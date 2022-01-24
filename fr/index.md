@@ -7,6 +7,10 @@
 
 ## Simplification et adaptation du texte
 
+**Journée d’étude : 25 mars 2021**
+
+**Thèmes** : pré-édition, langage contrôlé, Simplified Technical English, internationalisation et localisation, rédaction technique, visualisation
+
 ## Lieu et accès
 
 BREST Faculté Victor Segalen
