@@ -20,8 +20,6 @@ In addition, text simplification can improve natural language processing applica
 
 Simplified texts are also more accessible to non-native speakers, young readers, people with reading disabilities or with lower levels of education (Sustainable Development Goal REDUCED INEQUALITY). Scientific texts, such as research publications, can be difficult to understand for non-experts in the field or scientists who are not involved in the publication. Improving the comprehensibility of texts and adapting them to different audiences remains an unsolved problem. Simplification of texts is a step forward to make research truly open, accessible and understandable to everyone, to develop a counter-discourse to fake news based on scientific results, to allow people to read more quickly and consequently become more aware of scientific results, especially with an explosion of open science during the current COVID-19 pandemic (Sustainable Development Goal QUALITY EDUCATION).
 
-Translated with www.DeepL.com/Translator (free version)
-
 Mots/Machines-2022 is the fourth issue of the workshop organised by the HCTI lab (Héritages et Constructions dans le Texte et l'Image).
 Information about the previous editions of the workshop in French can be found here:
 - [Mots/Machines 3: Les machines ont-elles le sens de l’humour ?]
