@@ -10,9 +10,8 @@
 
 ### Important Dates
 
-Submissions: 13 février 2022
-
-Workshop: 25 March 2022
+* **Submissions: 13 février 2022**
+* **Workshop: 25 March 2022**
 
 Text simplification is used in the field of translation, localization and technical writing. Pre-editing is the process by which a human prepares a document before using machine translation in order to achieve better results and reduce post-editing workload, which has become a common choice for companies publishing their content in different languages.
 
