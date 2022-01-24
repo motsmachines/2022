@@ -6,7 +6,7 @@
 
 <br>
 
-## Appel à communication : Plus d'informations à venir
+## Appel à communication : Simplification et adaptation du texte
 
 Site de soumission : (à venir)
 
@@ -15,6 +15,14 @@ Site de soumission : (à venir)
 **Soumission des résumés et des articles : 13 février 2022**
 
 **Journée d’étude : 25 mars 2021**
+
+La simplification des textes est utilisée dans le domaine de la traduction,  localisation et rédaction technique. La pré-édition est le processus par lequel un humain prépare un document avant d'appliquer la traduction automatique afin d'obtenir de meilleurs résultats et de réduire la charge de travail de post-édition, ce qui est devenu un choix courant pour les entreprises publiant leur contenu dans différentes langues.
+
+En outre, la simplification du texte permet d'améliorer les applications de traitement automatique de la langue naturelle, notamment les résultats de la traduction automatique. Ainsi, la simplification automatique de textes pourrait être utile dans divers domaines tels que la communication scientifique, le journalisme scientifique, la politique et l'éducation, tant pour les cours de sciences que pour la didactique. La vulgarisation scientifique et le journalisme scientifique sont l'un des plus anciens programmes de l'UNESCO.
+
+Les textes simplifiés sont également plus accessibles aux locuteurs non natifs, aux jeunes lecteurs, aux personnes souffrant d'un handicap de lecture ou ayant un niveau d'éducation inférieur (objectif de développement durable INÉGALITÉ RÉDUITE). 
+Les textes scientifiques, tels que les publications de recherche, peuvent être difficiles à comprendre pour les non-experts du domaine ou les scientifiques qui ne sont pas concernés par la publication. L'amélioration de la compréhensibilité des textes et leur adaptation à différents publics restent un problème non résolu. La simplification de textes est un pas en avant pour rendre la recherche réellement ouverte, accessible et compréhensible pour tout le monde, pour développer un contre-discours aux fake news basées sur des résultats scientifiques, pour permettre aux gens de lire plus rapidement et par conséquent, de devenir plus conscients des résultats scientifiques, surtout avec une explosion de la science ouverte pendant la pandémie actuelle de COVID-19 (objectif de développement durable ÉDUCATION DE QUALITÉ).
+
 
 Les thématiques des années précédentes étaient :
 
