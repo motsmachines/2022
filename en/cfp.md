@@ -6,4 +6,10 @@
 
 <br>
 
-## Call for Papers: More information to come
+## Call for Papers: Text simplification and adaptation
+
+### Important Dates
+
+Submissions: 13 février 2022
+
+Workshop: 25 March 2022
