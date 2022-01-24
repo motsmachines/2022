@@ -15,3 +15,5 @@ Site de soumission : (à venir)
 **Soumission des résumés et des articles : 13 février 2022**
 
 **Journée d’étude : 25 mars 2021**
+
+**Thèmes** : pré-édition, langage contrôlé, Simplified Technical English, internationalisation et localisation, rédaction technique, visualisation
