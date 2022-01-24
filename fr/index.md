@@ -9,7 +9,7 @@
 
 Thèmes : pré-édition, langage contrôlé, Simplified Technical English, internationalisation et localisation, rédaction technique, visualisation
 
-Le 25/03/2022
+**Le 25/03/2022**
 
 ## Lieu et accès
 
