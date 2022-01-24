@@ -14,4 +14,11 @@ Submissions: 13 février 2022
 
 Workshop: 25 March 2022
 
-## List of topics
+### List of topics
+
+* Pre-editing
+* Controlled language
+* Simplified Technical English
+* Internationalization and localization
+* Technical writing
+* Visualization
