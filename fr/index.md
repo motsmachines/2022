@@ -7,7 +7,7 @@
 
 ## Simplification et adaptation du texte
 
-Thèmes : pré-édition, langage contrôlé, Simplified Technical English, internationalisation et localisation, rédaction technique, visualisation
+**Thèmes** : pré-édition, langage contrôlé, Simplified Technical English, internationalisation et localisation, rédaction technique, visualisation
 
 **Le 25/03/2022**
 
