@@ -8,12 +8,12 @@
 
 ## Text simplification and adaptation
 
-**Workshop : 25 mars 2022**
+**Workshop : 25 March 2022**
 
 **List of topics** : pre-editing, controlled language, Simplified Technical English, internationalization and localization, technical writing, visualization
 
 ## Venue
-The workshop will be held at the University of Western Brittany, Faculty of Arts:
+The workshop will be held at the University of Western Brittany, Faculty of Humanities, room C219:
 
 BREST Faculté Victor Segalen
 
@@ -21,7 +21,7 @@ BREST Faculté Victor Segalen
 
 Brest Cedex 3, France
 
-Due to the current COVID-19 pandemic, Mots-Machines will also propose ONLINE participation.
+Mots/Machines will also propose ONLINE participation.
 
 ## Contact
 
