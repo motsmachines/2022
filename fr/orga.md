@@ -8,24 +8,20 @@
 
 ## Organisation
 
-### Comité de programmation
+### Comité de programme
 - Liana Ermakova, HCTI, UBO
 - Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
 - Caroline Comacle, traductrice, UBO
-- Pierre Chartier, HCTI, UBO
-- Carole Lesimple, traductrice, UBO
-- Alain Kerhervé, HCTI, UBO
+- Mohamed Saki, HCTI, UB0
+- Radia Hannachi, HCTI, UBS
 
 ### Comité d'organisation
 - Liana Ermakova, HCTI, UBO
-- Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
 - Caroline Comacle, traductrice, UBO
-- Pierre Chartier, HCTI, UBO
-- Carole Lesimple, traductrice, UBO
-- Alain Kerhervé, HCTI, UBO
-- Noémie Flood, HCTI, UBO
+- Mohamed Saki, HCTI, UB0
+- Radia Hannachi, HCTI, UBS
 
 ### Site Web
 - Orlane Puchalski, étudiante, UBO
