@@ -14,11 +14,14 @@
 - Élise Mathurin, HCTI, UBO
 - Caroline Comacle, translator, UBO
 - Radia Hannachi, HCTI, Université de Bretagne Sud
+- Mohamed Saki, HCTI, UBO
 
 ### Organizing committee
 - Liana Ermakova, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
 - Caroline Comacle, translator, UBO
+- Radia Hannachi, HCTI, Université de Bretagne Sud
+- Mohamed Saki, HCTI, UBO
 
 
 ### Website
