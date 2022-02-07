@@ -12,7 +12,7 @@ Site de soumission : (à venir)
 
 ### Calendrier
 
-**Soumission des résumés et des articles : 13 février 2022**
+**Soumission des résumés et des articles : 6 mars 2022**
 
 **Journée d’étude : 25 mars 2022**
 
