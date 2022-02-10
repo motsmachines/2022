@@ -35,7 +35,7 @@ Information about the previous editions of the workshop in French can be found h
 
 ### Submission Guidelines
 
-Submissions should be written in English or French following the [CEURART](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) 1-column paper style and be submitted as PDF files via the [EasyChair](https://easychair.org/conferences/?conf=motsmachines2021) system. 
+Submissions should be written in English or French following the [CEURART](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) 1-column paper style and be submitted as PDF files via the EasyChair system. 
 The papers should be original, i.e. not published in an earlier workshop or conference or journal, except for extended abstracts. Literature reviews, position and demo papers, papers on ongoing work or negative results are welcomed. Translations of previously published works can be accepted as extended abstracts.
 
 We accept the following types of submissions:
