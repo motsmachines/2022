@@ -67,9 +67,13 @@ Extended abstracts and PDF presentations will be published on the website. Selec
 ### Venue
 
 The workshop will be held at the [University of Western Brittany, Faculty of Arts](https://www.univ-brest.fr/UFR-Lettres-et-Sciences-Humaines):
+
 **BREST Faculté Victor Segalen**
+
 20, rue Duquesne - CS9383729238
+
 Brest Cedex 3, France
+
 Mots-Machines will also propose ONLINE participation.
 
 ### Contact
