@@ -13,16 +13,17 @@
 - Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
 - Caroline Comacle, translator, UBO
-- Radia Hannachi, HCTI, Université de Bretagne Sud
+- Radia Hannachi, HCTI, UBS
 - Mohamed Saki, HCTI, UBO
+- Michael Rinn, HCTI, UBO
 
 ### Organizing committee
 - Liana Ermakova, HCTI, UBO
+- Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
 - Caroline Comacle, translator, UBO
-- Radia Hannachi, HCTI, Université de Bretagne Sud
+- Radia Hannachi, HCTI, UBS
 - Mohamed Saki, HCTI, UBO
-
-
-### Website
+- Michael Rinn, HCTI, UBO
 - Orlane Puchalski, student, UBO
+- Léa Talec-Bernard, student, UBO
