@@ -47,11 +47,6 @@ Nous invitons des travaux originaux, des résumés étendus avec les référence
 3. *Articles courts* de 5-6 pages + références bibliographiques 
 Les communications pourront faire l’objet d’une publication après examen par le comité scientifique.
 
-### Liens
-
-Système de soumission : https://easychair.org/conferences/?conf=motsmachines4
-Format de soumission: https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/ 
-
 ### Les thématiques visées sont les suivantes (liste non-exhaustive) :
 
 * Vulgarisation scientifique
@@ -64,18 +59,3 @@ Format de soumission: https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-c
 * Repérage des difficultés
 * Mesures de la difficulté du texte
 * ...
-
-### Lieu et accès
-
-**BREST Faculté Victor Segalen**
-
-20, rue Duquesne - CS9383729238
-
-Brest Cedex 3, France
-
-Nous encourageons également la participation en ligne.
-
-### Contacts
-
-Site web : https://motsmachines.github.io/2022/  
-E-mail : [mots.machines@gmail.com](mailto:mots.machines@gmail.com)
