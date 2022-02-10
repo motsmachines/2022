@@ -12,16 +12,18 @@
 - Liana Ermakova, HCTI, UBO
 - Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
-- Caroline Comacle, traductrice, UBO
-- Mohamed Saki, HCTI, UB0
+- Caroline Comacle, translator, UBO
 - Radia Hannachi, HCTI, UBS
+- Mohamed Saki, HCTI, UBO
+- Michael Rinn, HCTI, UBO
 
 ### Comité d'organisation
 - Liana Ermakova, HCTI, UBO
+- Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
-- Caroline Comacle, traductrice, UBO
-- Mohamed Saki, HCTI, UB0
+- Caroline Comacle, translator, UBO
 - Radia Hannachi, HCTI, UBS
-
-### Site Web
-- Orlane Puchalski, étudiante, UBO
+- Mohamed Saki, HCTI, UBO
+- Michael Rinn, HCTI, UBO
+- Orlane Puchalski, student, UBO
+- Léa Talec-Bernard, student, UBO
