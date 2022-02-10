@@ -16,7 +16,7 @@
 
 **Workshop: 25 March 2022**
 
-## Context
+### Context
 
 Text simplification is used in the field of translation (pre-editing), localization and technical writing. Pre-editing is the process by which a human prepares a document before applying machine translation in order to achieve better results and reduce post-editing workload, which has become a common choice for companies publishing their content in different languages.
 
