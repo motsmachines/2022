@@ -10,9 +10,9 @@
 
 ### Liens
 
-Système de soumission : https://easychair.org/conferences/?conf=motsmachines4
+Système de soumission : [https://easychair.org/conferences/?conf=motsmachines4](https://easychair.org/conferences/?conf=motsmachines4)
 
-Format de soumission: https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/ 
+Format de soumission: [https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/)
 
 ### Lieu et accès
 
@@ -26,5 +26,5 @@ Nous encourageons également la participation en ligne.
 
 ### Contacts
 
-Site web : https://motsmachines.github.io/2022/  
+Site web : [https://motsmachines.github.io/2022/](https://motsmachines.github.io/2022/)
 E-mail : [mots.machines@gmail.com](mailto:mots.machines@gmail.com)
