@@ -45,6 +45,7 @@ We accept the following types of submissions:
 ### Links
 
 Submission system: https://easychair.org/conferences/?conf=motsmachines4
+
 Submission template: https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/ 
 
 ### List of topics (not exhaustive)
@@ -74,4 +75,5 @@ Mots-Machines will also propose ONLINE participation.
 ### Contact
 
 Website: https://motsmachines.github.io/2022/
+
 All questions about submissions should be emailed to [mots.machines@gmail.com](mailto:mots.machines@gmail.com)
