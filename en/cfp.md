@@ -18,7 +18,7 @@
 
 ### Context
 
-Text simplification is used in the field of translation (pre-editing), localization and technical writing. Pre-editing is the process by which a human prepares a document before applying machine translation in order to achieve better results and reduce post-editing workload, which has become a common choice for companies publishing their content in different languages.
+Text simplification is used in the field of translation (pre-editing), localization and technical writing. Pre-editing is the process by which a human being prepares a document before applying machine translation in order to achieve better results and reduce post-editing workload, which has become a common choice for companies publishing their content in different languages.
 
 In addition, text simplification improves natural language processing applications, including machine translation results. Thus, automatic text simplification could be useful in various fields such as science communication, science journalism, politics and education, both for science courses and for didactics. Science popularisation and science journalism is one of UNESCO's oldest programmes.
 
