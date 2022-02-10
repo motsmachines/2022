@@ -40,7 +40,7 @@ Des informations sur les précédentes éditions de l'atelier en français sont 
 
 ### Détail du format des soumissions
 
-Les soumissions, en français ou en anglais, au format pdf exclusivement, devront être déposées via  [EasyChair](https://easychair.org/conferences/?conf=motsmachines2021)  en respectant le format  [CEURART](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) 1-colonne.
+Les soumissions, en français ou en anglais, au format pdf exclusivement, devront être déposées via EasyChair en respectant le format [CEURART](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) 1-colonne.
 Nous invitons des travaux originaux, des résumés étendus avec les références des articles déjà publiés, des revues de la littérature, des travaux de positionnement, des travaux en cours, des résultats négatifs. Il est possible de soumettre des articles dans 3 formats : 
 1. *Résumés étendus* de 500-1000 mots + références bibliographiques. Les articles déjà publiés peuvent être acceptés comme des résumés étendus (SVP en ce cas citez le travail précédent).
 2. *Articles longs*  de 10-12 pages + références bibliographiques
