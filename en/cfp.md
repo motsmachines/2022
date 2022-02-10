@@ -12,6 +12,8 @@
 
 **Submissions: 06 March 2022**
 
+**Notification: 08 March 2022**
+
 **Workshop: 25 March 2022**
 
 Text simplification is used in the field of translation, localization and technical writing. Pre-editing is the process by which a human prepares a document before using machine translation in order to achieve better results and reduce post-editing workload, which has become a common choice for companies publishing their content in different languages.
@@ -24,7 +26,7 @@ Mots/Machines-2022 is the fourth issue of the workshop organised by the HCTI lab
 Information about the previous editions of the workshop in French can be found here:
 - [Mots/Machines 1: Traduction, transcréation, transformation](https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines)
 - [Mots/Machines 2: Traduction et sentiment : quel sens pour la machine ?](https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4)  
-- [Mots/Machines 3: Les machines ont-elles le sens de l’humour ?]
+- [Mots/Machines 3: Les machines ont-elles le sens de l’humour ?](https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines)
 
 ### List of topics
 
