@@ -8,11 +8,13 @@
 
 ## Appel à communication : Simplification et adaptation du texte
 
-Site de soumission : (à venir)
+Site de soumission : à venir
 
 ### Calendrier
 
 **Soumission des résumés et des articles : 6 mars 2022**
+
+**Notification : 8 mars 2022**
 
 **Journée d’étude : 25 mars 2022**
 
@@ -25,7 +27,7 @@ Les textes scientifiques, tels que les publications de recherche, peuvent être 
 
 * [2019 : la place et le rôle de l’humain dans la création, transmission, transcréation et transformation des textes]([https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines](https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines))
 * [2020 : Traduction et sentiment : quel sens pour la machine ?]([https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4](https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4))
-* [2021 : Les machines ont-elles le sens de l’humour ?]
+* [2021 : Les machines ont-elles le sens de l’humour ?](https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines)
 
 ### Thématiques
 
