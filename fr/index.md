@@ -7,7 +7,7 @@
 
 ## Simplification et adaptation du texte
 
-[Appel à communication en format PDF](./CFP Mots Machines-2022.pdf)
+[Appel à communication en format PDF](../CFP Mots Machines-2022.pdf)
 
 **Journée d’étude : 25 mars 2022**
 
