@@ -8,6 +8,8 @@
 
 ## Text simplification and adaptation
 
+[PDF version CFP](./CFP Mots Machines-2022.pdf)
+
 **Workshop : 25 March 2022**
 
 **List of topics** : pre-editing, controlled language, Simplified Technical English, internationalization and localization, technical writing, visualization
