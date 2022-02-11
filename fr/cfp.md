@@ -6,9 +6,7 @@
 
 <br>
 
-## Appel à communication : Simplification et adaptation du texte
-
-Site de soumission : à venir
+[Appel à communication en format PDF](./CFP Mots Machines-2022.pdf)
 
 ### Calendrier
 
@@ -36,7 +34,7 @@ Des informations sur les éditions précédentes de l'atelier en français sont 
 
 * [2019 : la place et le rôle de l’humain dans la création, transmission, transcréation et transformation des textes]([https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines](https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines))
 * [2020 : Traduction et sentiment : quel sens pour la machine ?]([https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4](https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4))
-* [2021 : Les machines ont-elles le sens de l’humour ?]
+* [2021 : Les machines ont-elles le sens de l’humour ?](https://motsmachines.github.io/2021)
 
 ### Détail du format des soumissions
 
