@@ -16,6 +16,8 @@
 
 **Workshop: 25 March 2022**
 
+[PDF version CFP](./CFP Mots Machines-2022.pdf)
+
 ### Context
 
 Text simplification is used in the field of translation (pre-editing), localization and technical writing. Pre-editing consists in preparing a document before applying machine translation in order to achieve better results and reduce post-editing workload, which has become a common choice for companies publishing their content in different languages.
