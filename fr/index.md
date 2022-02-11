@@ -7,6 +7,8 @@
 
 ## Simplification et adaptation du texte
 
+[Appel à communication en format PDF](./CFP Mots Machines-2022.pdf)
+
 **Journée d’étude : 25 mars 2022**
 
 **Thématiques** : pré-édition, langage contrôlé, Simplified Technical English, internationalisation et localisation, rédaction technique, visualisation
