@@ -8,7 +8,7 @@
 
 ## Appel à communication : Simplification et adaptation du texte
 
-[Appel à communication en format PDF](./CFP Mots Machines-2022.pdf)
+[Appel à communication en format PDF](../CFP Mots Machines-2022.pdf)
 
 ### Calendrier
 
