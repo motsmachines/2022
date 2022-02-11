@@ -8,6 +8,8 @@
 
 ## Call for Papers: Text simplification and adaptation
 
+[PDF version CFP](./CFP Mots Machines-2022.pdf)
+
 ### Important Dates
 
 **Submissions: 06 March 2022**
@@ -15,8 +17,6 @@
 **Notification: 08 March 2022**
 
 **Workshop: 25 March 2022**
-
-[PDF version CFP](./CFP Mots Machines-2022.pdf)
 
 ### Context
 
