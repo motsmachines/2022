@@ -8,7 +8,7 @@
 
 ## Call for Papers: Text simplification and adaptation
 
-[PDF version CFP](./CFP Mots Machines-2022.pdf)
+[PDF version CFP](../CFP Mots Machines-2022.pdf)
 
 ### Important Dates
 
