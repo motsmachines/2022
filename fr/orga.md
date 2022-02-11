@@ -12,7 +12,7 @@
 - Liana Ermakova, HCTI, UBO
 - Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
-- Caroline Comacle, translator, UBO
+- Caroline Comacle, traductrice, UBO
 - Radia Hannachi, HCTI, UBS
 - Mohamed Saki, HCTI, UBO
 - Michael Rinn, HCTI, UBO
@@ -21,9 +21,9 @@
 - Liana Ermakova, HCTI, UBO
 - Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
-- Caroline Comacle, translator, UBO
+- Caroline Comacle, traductrice, UBO
 - Radia Hannachi, HCTI, UBS
 - Mohamed Saki, HCTI, UBO
 - Michael Rinn, HCTI, UBO
-- Orlane Puchalski, student, UBO
-- Léa Talec-Bernard, student, UBO
+- Orlane Puchalski, étudiante du Master Rédacteur/Traducteur, UBO
+- Léa Talec-Bernard, étudiante du Master Rédacteur/Traducteur, UBO
