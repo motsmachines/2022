@@ -25,5 +25,5 @@
 - Radia Hannachi, HCTI, UBS
 - Mohamed Saki, HCTI, UBO
 - Michael Rinn, HCTI, UBO
-- Orlane Puchalski, student, UBO
-- Léa Talec-Bernard, student, UBO
+- Orlane Puchalski, Masters degree in Translation and Technical Writing student, UBO
+- Léa Talec-Bernard, Masters degree in Translation and Technical Writing student, UBO
