@@ -68,9 +68,19 @@ Format de soumission: [https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-
 
 ### Conférenciers invités
 
-* Sara Vecchiato, Sonia Gerolimich, Università degli Studi di Udine, Italie
+* Léo Annebi
+* Julia Degenhardt
+* Laurent Gautier
 * Núria Gala, Laboratoire Parole et Langage UMR7309 CNRS - Université Aix-Marseille, France
-* Koichi Kise, Osaka Prefecture University, Japan
+* Sara Vecchiato, Università degli Studi di Udine, Italie
+* Sonia Gerolimich, Università degli Studi di Udine, Italie
+* Silvia Araujo
+* Koichi Kise, Université de la Préfecture d'Osaka, Japon
+* Helen Mccombie, Université de Bretagne Occidentale, Bureau de Traduction de l'UBO
+* Alessandra Rossetti
+* Luuk Van Waes
+* Benoit Jeanjean
+* Julien Jouan
 
 ### Lieu et accès
 
