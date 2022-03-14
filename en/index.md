@@ -6,7 +6,7 @@
 
 <br> 
 
-![Affiche](https://github.com/motsmachines/2022/blob/main/Affiche%20journe%CC%81e%20d'e%CC%81tude%2023-2.png)
+![Affiche](../Affiche%20journe%CC%81e%20d'e%CC%81tude%2023-2.png)
 
 ## Text simplification and adaptation
 
