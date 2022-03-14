@@ -67,9 +67,19 @@ Submission template: [https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-c
 * Metrics of text difficulty
 
 ### Invited Speakers
-* Sara Vecchiato, Sonia Gerolimich, Università degli Studi di Udine, Italie
-* Núria Gala, Laboratoire Parole et Langage UMR7309 CNRS - Université Aix-Marseille, France
+* Léo Annebi
+* Julia Degenhardt
+* Laurent Gautier
+* Núria Gala, Laboratoire Parole et Langage UMR7309 CNRS - University of Aix-Marseille, France
+* Sara Vecchiato, Università degli Studi di Udine, Italie
+* Sonia Gerolimich, Università degli Studi di Udine, Italie
+* Silvia Araujo
 * Koichi Kise, Osaka Prefecture University, Japan
+* Helen Mccombie, University of Western Brittany, UBO Translation Bureau
+* Alessandra Rossetti
+* Luuk Van Waes
+* Benoit Jeanjean
+* Julien Jouan
 
 ### Publication
 
