@@ -16,7 +16,7 @@
 
 [https://www.eventbrite.fr/e/billets-online-motsmachines-4-simplification-et-adaptation-du-texte-261326904807](https://www.eventbrite.fr/e/billets-online-motsmachines-4-simplification-et-adaptation-du-texte-261326904807)
 
-Le lien Zoom est pour la participation en ligne et vous sera envoyé par email après votre inscription via le site EventBrite. Cliquez sur Event details dans l'email de confirmation pour accéder au lien zoom comme indiqué ci-dessous :
+Le lien Zoom pour la participation en ligne vous sera envoyé par email après votre inscription via le site EventBrite. Cliquez sur Event details dans l'email de confirmation pour accéder au lien zoom comme indiqué ci-dessous :
 
 ![e-mail](../eventbrite-zoom-link.jpg)
 
