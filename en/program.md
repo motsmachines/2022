@@ -48,7 +48,7 @@
 
 ### 14:00
 
-**- Koichi Kise**
+**- Koichi Kise, Osaka Prefecture University, Japan**
 
 "Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements"
 
