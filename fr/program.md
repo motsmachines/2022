@@ -10,7 +10,7 @@
 
 ### 8:30
 
-**Accueil et café
+**Accueil et café**
 
 ### 9:00
 
@@ -18,34 +18,37 @@
 
 ### 9:15
 
-**- Léo Annebi
-**- Julia Degenhardt 
-**- Laurent Gautier
+**- Léo Annebi**
+
+**- Julia Degenhardt**
+
+**- Laurent Gautier**
 
 ### 9:45
 
-**- Nuria Gala, Laboratoire Parole et Langage UMR7309 CNRS - Université Aix-Marseille, France
+**- Nuria Gala, Laboratoire Parole et Langage UMR7309 CNRS - Université Aix-Marseille, France**
 
 ### 10:30
 
-**Pause
+**Pause**
 
 ### 10:45
 
-**- Sara Vecchiato, Università degli Studi di Udine, Italie
-**- Sonia Gerolimich, Università degli Studi di Udine, Italie
+**- Sara Vecchiato, Università degli Studi di Udine, Italie**
+
+**- Sonia Gerolimich, Università degli Studi di Udine, Italie**
 
 ### 11:30
 
-**- Silvia Araujo
+**- Silvia Araujo**
 
 ### 12:15
 
-**Buffet
+**Buffet**
 
 ### 14:00
 
-**- Koichi Kise 
+**- Koichi Kise**
 
 "Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements"
 
@@ -53,29 +56,29 @@
 
 ### 14:45
 
-**- Helen Mccombie, Université de Bretagne Occidentale, Bureau de Traduction de l'UBO
+**- Helen Mccombie, Université de Bretagne Occidentale, Bureau de Traduction de l'UBO**
 
 ### 15:15
 
-**- Alessandra Rossetti 
-**- Luuk Van Waes
+**- Alessandra Rossetti**
+**- Luuk Van Waes**
 
 ### 15:45
 
-**Pause
+**Pause**
 
 ### 16:00
 
-**- Benoit Jeanjean
+**- Benoit Jeanjean**
 
 ### 16:30
 
-**- Julien Jouan
+**- Julien Jouan**
 
 ### 17:00
 
-**En-cas
+**En-cas**
 
 ### 17:30
 
-**Fermeture
+**Fermeture**
