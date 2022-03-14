@@ -14,7 +14,7 @@
 
 ### 9:00
 
-**Ouverture
+**Ouverture**
 
 ### 9:15
 
