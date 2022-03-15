@@ -70,7 +70,7 @@
 
 ### 14:45
 
-**How well does one need to understand a subject to write, rewrite and correct research papers? **
+**How well does one need to understand a subject to write, rewrite and correct research papers?**
 
 *- Helen Mccombie, University of Western Brittany, UBO Translation Bureau, France*
 
