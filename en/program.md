@@ -18,11 +18,13 @@
 
 ### 9:15
 
-**- Léo Annebi**
+**- Léo Annebi, University of Bourgogne, France**
 
-**- Julia Degenhardt**
+**- Julia Degenhardt, University of Bourgogne, France**
 
-**- Laurent Gautier**
+**- Laurent Gautier, University of Bourgogne, France**
+
+*Gérer terminologie(s) et connaissances spécialisées dans la traduction intralinguale : le cas des mesures sanitaires COVID dans les variétés simplifiées de français et d’allemand
 
 ### 9:45
 
