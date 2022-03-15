@@ -18,17 +18,23 @@
 
 ### 9:15
 
-**- Léo Annebi, University of Bourgogne, France**
+**Gérer terminologie(s) et connaissances spécialisées dans la traduction intralinguale : le cas des mesures sanitaires COVID dans les variétés simplifiées de français et d’allemand**
 
-**- Julia Degenhardt, University of Bourgogne, France**
+*- Léo Annebi, University of Bourgogne, France*
 
-**- Laurent Gautier, University of Bourgogne, France**
+*- Julia Degenhardt, University of Bourgogne, France*
 
-*Gérer terminologie(s) et connaissances spécialisées dans la traduction intralinguale : le cas des mesures sanitaires COVID dans les variétés simplifiées de français et d’allemand
+*- Laurent Gautier, University of Bourgogne, France*
+
+[Abstract in PDF](../Léo Annebi, Julia Degenhardt and Laurent Gautier.pdf)
 
 ### 9:45
 
-**- Nuria Gala, Laboratory of Speech and Language UMR7309 CNRS - University of Aix-Marseille, France**
+**Vers une simplification automatique de textes en français : bilan des travaux du projet ALECTOR (ressources, approches et évaluations)**
+
+*- Nuria Gala, Laboratory of Speech and Language UMR7309 CNRS - University of Aix-Marseille, France*
+
+[Abstract in PDF](../Núria Gala.pdf)
 
 ### 10:30
 
@@ -36,13 +42,19 @@
 
 ### 10:45
 
-**- Sara Vecchiato, Università degli Studi di Udine, Italy**
+*- Sara Vecchiato, Università degli Studi di Udine, Italy*
 
-**- Sonia Gerolimich, Università degli Studi di Udine, Italy**
+*- Sonia Gerolimich, Università degli Studi di Udine, Italy*
 
 ### 11:30
 
-**- Silvia Araujo**
+**A Multimodal Mapping Methodology for Translators. How to quickly familiarize yourself with a subject area terminology**
+
+*- Sílvia Araújo, University of Minho, Portugal*
+
+*- Micaela Aguiar, University of Minho, Portugal*
+
+[Abstract in PDF](../Sílvia Araújo and Micaela Aguiar.pdf)
 
 ### 12:15
 
@@ -50,20 +62,29 @@
 
 ### 14:00
 
-**- Koichi Kise, Osaka Prefecture University, Japan**
+**Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements**
 
-"Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements"
+*- Koichi Kise, Osaka Prefecture University, Japan*
 
 [Abstract in PDF](../Koichi Kise - Reading of Reading for Actuating - Absctract.pdf)
 
 ### 14:45
 
-**- Helen Mccombie, University of Western Brittany, UBO Translation Bureau**
+**How well does one need to understand a subject to write, rewrite and correct research papers? **
+
+*- Helen Mccombie, University of Western Brittany, UBO Translation Bureau, France*
+
+[Abstract in PDF](../Helen Mccombie.pdf)
 
 ### 15:15
 
-**- Alessandra Rossetti**
-**- Luuk Van Waes**
+**The impact of text simplification training on comprehensibility: Combining automated metrics and human evaluation**
+
+*- Alessandra Rossetti, Universiteit Antwerpen, Belgium*
+
+*- Luuk Van Waes, Universiteit Antwerpen, Belgium*
+
+[Abstract in PDF](../Alessandra Rossetti and Luuk Van Waes.pdf)
 
 ### 15:45
 
@@ -71,15 +92,25 @@
 
 ### 16:00
 
-**- Benoit Jeanjean**
+**La traduction collaborative d'un traité d'anatomie du XVIIIe siècle en latin se prête-t-elle à la simplification : l'expérience du Projet Libros+**
+
+*- Benoit Jeanjean, University of Western Brittany, France*
 
 ### 16:30
 
-**- Julien Jouan**
+**Simplification automatique des textes scientifiques**
+
+*- Julien Jouan, University of Western Brittany, France*
+
+[Abstract in PDF](../Julien Jouan.pdf)
 
 ### 17:00
 
-**- Anca**
+**A critical look at the "simplification of a text"**
+
+*- Anca Christine Pascu, University of Western Brittany, France*
+
+[Abstract in PDF](../Anca Christine Pascu.pdf)
 
 ### 17:30
 
