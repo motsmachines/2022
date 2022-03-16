@@ -42,9 +42,13 @@
 
 ### 10:45
 
+**Simplification et vulgarisation médicale : quelle(s) reformulation(s) et traduction(s) pour un public à faible niveau de littératie ?**
+
 *- Sara Vecchiato, Università degli Studi di Udine, Italie*
 
 *- Sonia Gerolimich, Università degli Studi di Udine, Italie*
+
+[Résumé en format PDF](../Sara Vecchiato et Sonia Gerolimich.pdf)
 
 ### 11:30
 
