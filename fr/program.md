@@ -52,9 +52,9 @@
 
 ### 11:30
 
-**A Multimodal Mapping Methodology for Translators. How to quickly familiarize yourself with a subject area terminology**
+**Une méthodologie multimodale de représentation pour les traducteurs. Comment se familiariser rapidement avec la terminologie d'un sujet spécifique (A Multimodal Mapping Methodology for Translators. How to quickly familiarize yourself with a subject area terminology)**
 
-**A bilingual semantic engine to help search specialized fields of knowledge and translation equivalents from comparable scientific texts: design and implementation**
+**Une machine bilingue sémantique aidant à rechercher des domaines de connaissance et des équivalents de traductions pour des textes scientifiques comparables : conception et implémentation (A bilingual semantic engine to help search specialized fields of knowledge and translation equivalents from comparable scientific texts: design and implementation)**
 
 *- Sílvia Araújo, Université de Minho, Portugal*
 
@@ -71,7 +71,7 @@
 
 ### 14:00
 
-**Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements**
+**Interprétation de la lecture pour l'acuité : Augmenter l'apprentissage humain par des compléments d'expérience (Reading of Reading for Actuating: Augmenting Human Learning by Experiential Supplements)**
 
 *- Koichi Kise, Université de la Préfecture d'Osaka, Japon*
 
@@ -79,7 +79,7 @@
 
 ### 14:45
 
-**How well does one need to understand a subject to write, rewrite and correct research papers?**
+**A quel point doit-on connaître un sujet pour rédiger, réécrire et corriger des documents de recherche ? (How well does one need to understand a subject to write, rewrite and correct research papers?)**
 
 *- Helen Mccombie, , Université de Bretagne Occidentale, Bureau de Traduction de l'UBO,  France*
 
@@ -87,7 +87,7 @@
 
 ### 15:15
 
-**The impact of text simplification training on comprehensibility: Combining automated metrics and human evaluation**
+**L'impact de la formation à la simplification des textes sur l'intelligibilité : Combinaison de mesures automatisées et de l'évaluation humaine (The impact of text simplification training on comprehensibility: Combining automated metrics and human evaluation)**
 
 *- Alessandra Rossetti, Universiteit Antwerpen, Belgique*
 
