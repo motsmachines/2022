@@ -54,11 +54,16 @@
 
 **A Multimodal Mapping Methodology for Translators. How to quickly familiarize yourself with a subject area terminology**
 
+**A bilingual semantic engine to help search specialized fields of knowledge and translation equivalents from comparable scientific texts: design and implementation**
+
 *- Sílvia Araújo, University of Minho, Portugal*
 
 *- Micaela Aguiar, University of Minho, Portugal*
 
+*- Diogo Monteiro, University of Minho, Portugal*
+
 [Abstract in PDF](../Sílvia Araújo and Micaela Aguiar.pdf)
+[Abstract in PDF](../Diogo Monteiro and Sílvia Araújo.pdf)
 
 ### 12:15
 
