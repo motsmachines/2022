@@ -25,5 +25,6 @@
 - Radia Hannachi, HCTI, UBS
 - Mohamed Saki, HCTI, UBO
 - Michael Rinn, HCTI, UBO
+- Emmanuelle Bourge, HCTI, UBO
 - Orlane Puchalski, étudiante du Master Rédacteur/Traducteur, UBO
 - Léa Talec-Bernard, étudiante du Master Rédacteur/Traducteur, UBO
