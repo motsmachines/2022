@@ -18,7 +18,7 @@
 
 ### 9:15
 
-**Gérer terminologie(s) et connaissances spécialisées dans la traduction intralinguale : le cas des mesures sanitaires COVID dans les variétés simplifiées de français et d’allemand**
+**Operate terminology and information specialised in intralingual translation: the case of sanitary measures related to COVID in the simplified versions French and German (Gérer terminologie(s) et connaissances spécialisées dans la traduction intralinguale : le cas des mesures sanitaires COVID dans les variétés simplifiées de français et d’allemand)**
 
 *- Léo Annebi, University of Bourgogne, France*
 
@@ -30,7 +30,7 @@
 
 ### 9:45
 
-**Vers une simplification automatique de textes en français : bilan des travaux du projet ALECTOR (ressources, approches et évaluations)**
+**Towards the automatic translation of French texts: results of the works related to project ALECTOR (ressources, approches and evalutations) (Vers une simplification automatique de textes en français : bilan des travaux du projet ALECTOR (ressources, approches et évaluations))**
 
 *- Nuria Gala, Laboratory of Speech and Language UMR7309 CNRS - University of Aix-Marseille, France*
 
@@ -42,7 +42,7 @@
 
 ### 10:45
 
-**Simplification et vulgarisation médicale : quelle(s) reformulation(s) et traduction(s) pour un public à faible niveau de littératie ?**
+**Medical simplification and vulgarisation: what to reword and translate for a public with a low litteracy level? (Simplification et vulgarisation médicale : quelle(s) reformulation(s) et traduction(s) pour un public à faible niveau de littératie ?)**
 
 *- Sara Vecchiato, Università degli Studi di Udine, Italy*
 
@@ -101,13 +101,13 @@
 
 ### 16:00
 
-**La traduction collaborative d'un traité d'anatomie du XVIIIe siècle en latin se prête-t-elle à la simplification : l'expérience du Projet Libros+**
+**Could the collaborative translation of an anatomical treaty in Latin from the 18th century be simplified: the experience of project Libros+ (La traduction collaborative d'un traité d'anatomie du XVIIIe siècle en latin se prête-t-elle à la simplification : l'expérience du Projet Libros+)**
 
 *- Benoit Jeanjean, University of Western Brittany, France*
 
 ### 16:30
 
-**Simplification automatique des textes scientifiques**
+**Automatic simplification of scientifical texts (Simplification automatique des textes scientifiques)**
 
 *- Julien Jouan, University of Western Brittany, France*
 
