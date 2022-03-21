@@ -30,7 +30,7 @@
 
 ### 9:45
 
-**Towards the automatic translation of French texts: results of the works related to project ALECTOR (ressources, approches and evalutations) (Vers une simplification automatique de textes en français : bilan des travaux du projet ALECTOR (ressources, approches et évaluations))**
+**Towards automatic text simplification for French: lessons learnt from the ALECTOR project (resources, aproaches, methods) (Vers une simplification automatique de textes en français : bilan des travaux du projet ALECTOR (ressources, approches et évaluations))**
 
 *- Nuria Gala, Laboratory of Speech and Language UMR7309 CNRS - University of Aix-Marseille, France*
 
