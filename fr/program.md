@@ -85,7 +85,7 @@
 
 **A quel point doit-on connaître un sujet pour rédiger, réécrire et corriger des documents de recherche ? (How well does one need to understand a subject to write, rewrite and correct research papers?)**
 
-*- Helen Mccombie, , Université de Bretagne Occidentale, Bureau de Traduction de l'UBO,  France*
+*- Helen Mccombie, Université de Bretagne Occidentale, Bureau de Traduction de l'UBO,  France*
 
 [Résumé en format PDF](../Helen Mccombie.pdf)
 
