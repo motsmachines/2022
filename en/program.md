@@ -16,6 +16,10 @@
 
 **Opening**
 
+*- Liana Ermakova, University of Western Brittany, France*
+
+[Presentation](https://docs.google.com/presentation/d/1XzdFFTaysyJRUBtAlExEpcZPV2w95Zzl-eXOVHnFGLk/edit#slide=id.g1204ed87d07_0_24)
+
 ### 9:15
 
 **Operate terminology and information specialised in intralingual translation: the case of sanitary measures related to COVID in the simplified versions French and German (Gérer terminologie(s) et connaissances spécialisées dans la traduction intralinguale : le cas des mesures sanitaires COVID dans les variétés simplifiées de français et d’allemand)**
