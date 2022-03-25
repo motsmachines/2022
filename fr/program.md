@@ -16,6 +16,10 @@
 
 **Ouverture**
 
+*- Liana Ermakova, Universsité de Bretagne Occidentale, France*
+
+[Présentation](https://docs.google.com/presentation/d/1XzdFFTaysyJRUBtAlExEpcZPV2w95Zzl-eXOVHnFGLk/edit#slide=id.g1204ed87d07_0_24)
+
 ### 9:15
 
 **Gérer terminologie(s) et connaissances spécialisées dans la traduction intralinguale : le cas des mesures sanitaires COVID dans les variétés simplifiées de français et d’allemand**
