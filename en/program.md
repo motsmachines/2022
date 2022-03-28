@@ -39,6 +39,7 @@
 *- Nuria Gala, Laboratory of Speech and Language UMR7309 CNRS - University of Aix-Marseille, France*
 
 [Abstract in PDF](../Núria Gala.pdf)
+[Presentation in French](../MotsMachines ALECTOR NGala 25032022.pdf)
 
 ### 10:30
 
@@ -109,6 +110,8 @@
 
 *- Benoit Jeanjean, University of Western Brittany, France*
 
+[Presentation in French](../La traduction d'un traité anatomique du XVIIIe siècle se prête-t-elle à la simplification.pptx)
+
 ### 16:30
 
 **Automatic simplification of scientifical texts (Simplification automatique des textes scientifiques)**
@@ -116,6 +119,7 @@
 *- Julien Jouan, University of Western Brittany, France*
 
 [Abstract in PDF](../Julien Jouan.pdf)
+[Presentation in French](../MOT-MACHINE (1).odp)
 
 ### 17:00
 
@@ -124,6 +128,7 @@
 *- Anca Christine Pascu, University of Western Brittany, France*
 
 [Abstract in PDF](../Anca Christine Pascu.pdf)
+[Presentation in French](../pascu-mots-machine-2022.pdf)
 
 ### 17:30
 
