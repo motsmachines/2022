@@ -39,6 +39,7 @@
 *- Nuria Gala, Laboratory of Speech and Language UMR7309 CNRS - University of Aix-Marseille, France*
 
 [Abstract in PDF](../Núria Gala.pdf)
+
 [Presentation in French](../MotsMachines ALECTOR NGala 25032022.pdf)
 
 ### 10:30
@@ -68,6 +69,7 @@
 *- Diogo Monteiro, University of Minho, Portugal*
 
 [Abstract in PDF](../Sílvia Araújo and Micaela Aguiar.pdf)
+
 [Abstract in PDF](../Diogo Monteiro and Sílvia Araújo.pdf)
 
 ### 12:15
@@ -119,6 +121,7 @@
 *- Julien Jouan, University of Western Brittany, France*
 
 [Abstract in PDF](../Julien Jouan.pdf)
+
 [Presentation in French](../MOT-MACHINE (1).odp)
 
 ### 17:00
@@ -128,6 +131,7 @@
 *- Anca Christine Pascu, University of Western Brittany, France*
 
 [Abstract in PDF](../Anca Christine Pascu.pdf)
+
 [Presentation in French](../pascu-mots-machine-2022.pdf)
 
 ### 17:30
