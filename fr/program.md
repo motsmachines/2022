@@ -40,6 +40,8 @@
 
 [Résumé en format PDF](../Núria Gala.pdf)
 
+[Presentation en français](../MotsMachines ALECTOR NGala 25032022.pdf)
+
 ### 10:30
 
 **Pause**
@@ -109,6 +111,8 @@
 
 *- Benoit Jeanjean, Université de Bretagne Occidentale, France*
 
+[Presentation en français](../La traduction d'un traité anatomique du XVIIIe siècle se prête-t-elle à la simplification.pptx)
+
 ### 16:30
 
 **Simplification automatique des textes scientifiques**
@@ -117,6 +121,8 @@
 
 [Résumé en format PDF](../Julien Jouan.pdf)
 
+[Presentation en français](../MOT-MACHINE (1).odp)
+
 ### 17:00
 
 **Regard critique sur la « simplification d’un texte »**
@@ -124,6 +130,8 @@
 *- Anca Christine Pascu, Université de Bretagne Occidentale, France*
 
 [Résumé en format PDF](../Anca Christine Pascu.pdf)
+
+[Presentation en français](../pascu-mots-machine-2022.pdf)
 
 ### 17:30
 
